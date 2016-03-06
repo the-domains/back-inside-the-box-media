@@ -1,0 +1,28 @@
+name: Back Inside The Box - Media
+favicon: null
+layout_spectrum: 0.16039535240270197
+typography_spectrum: 0.8611238875892013
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.19001618237234652
+  lightness: 0.1547235855832696
+  saturation: 0.048020522808656096
+  rhythmicContrast: 0.5018103790935129
+purpose: []
