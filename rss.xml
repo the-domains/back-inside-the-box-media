@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Back Inside The Box - Media]]></title>
         <description><![CDATA[Back Inside The Box - Media]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/back-inside-the-box-media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 22:28:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 22:29:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/back-inside-the-box-media/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://i.ytimg.com/vi_webp/yJ4uxwf88JM/mqdefault.webp">]]></description>
+            <link>https://thegrid.ai/back-inside-the-box-media/c02a88a9-7122-47fb-8890-a5c726aa5257/index.html</link>
+            <guid isPermaLink="false">c02a88a9-7122-47fb-8890-a5c726aa5257</guid>
+            <pubDate>Sun, 06 Mar 2016 22:29:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://i.ytimg.com/vi_webp/nv_JdjReoDw/mqdefault.webp">]]></description>
-            <link>undefined1eab9640-8201-4e5e-8983-2136542dec48/index.html</link>
+            <link>https://thegrid.ai/back-inside-the-box-media/1eab9640-8201-4e5e-8983-2136542dec48/index.html</link>
             <guid isPermaLink="false">1eab9640-8201-4e5e-8983-2136542dec48</guid>
             <pubDate>Sun, 06 Mar 2016 22:28:22 GMT</pubDate>
         </item>
