@@ -1,7 +1,7 @@
 name: Back Inside The Box - Media
 favicon: null
-layout_spectrum: 0.16039535240270197
-typography_spectrum: 0.8611238875892013
+layout_spectrum: 0
+typography_spectrum: 0.38213
 cta:
   domain: null
   bucket: null
